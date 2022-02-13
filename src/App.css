@@ -20,3 +20,48 @@
 	letter-spacing: -0.075em;
 	color: #fff;
 }
+
+.main{
+	margin-top: 50px;
+}
+.main__card-body{
+	display: flex;
+	margin-bottom: 20px;
+}
+.main__card-img{
+	margin-right: 20px;
+	width: 125px;
+	height: 168px;
+}
+.main__card-info{
+	margin-right: 40px;
+}
+.main__card-map{
+	display: flex;
+	align-items: center;
+}
+.main__card-point{
+	margin-right: 5px;
+	width: 15px;
+	height: 15px;
+}
+.main__card-location{
+	margin: 0 15px 0 0;
+	letter-spacing: 0.17em;
+	color: #2B283A;
+	font-weight: normal;
+	font-size: 17px;
+}
+.main__card-link{
+	font-size: 14px;
+	line-height: 12px;
+	color: #918E9B;
+}
+.main__card-title{
+	margin-top: 0;
+	font-size: 25px;
+}
+.main__card-descr{
+	font-size: 14px;
+	color: #2B283A;
+}
